@@ -1,4 +1,8 @@
 WPU RESOLUSI
-- Progres SIMRS RSI-SM Tsm Bridging dengan BPJS
+- Progres SIMRS RSI-SM Tsm Bridging dengan BPJS Kesehatan
+  * Vclaim
+  * Aplicares
+  * Consid Secretkey tester BBM ke BPJS Kesehatan
+  * Testing Bridging dengan IT BPJS Kesehatan
 - Membuat konten banner untuk HUT PPNI ke-46 DPD Kota Tasikmalaya 2020
 - Pelaksanaan Baksos Katarak 2020
